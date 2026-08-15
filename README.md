@@ -8,5 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="tia" width="88" />
+  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="" width="16" align="middle" />
+  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="" width="26" align="middle" />
+  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="" width="42" align="middle" />
+  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="" width="68" align="middle" />
+  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="" width="110" align="middle" />
+  <img src="https://github.com/user-attachments/assets/6c612412-d633-407e-9fc5-84a6185d1b82" alt="tia" width="176" align="middle" />
 </p>
