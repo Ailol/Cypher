@@ -1,4 +1,4 @@
-# Cyphers first mission:
+# Cyphers first boss of ahn qiraj solution
 <img width="904" height="535" alt="image" src="https://github.com/user-attachments/assets/b3381359-a2af-4f88-a46b-2445d2ed5ea3" />
 
 
