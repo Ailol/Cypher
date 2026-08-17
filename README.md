@@ -1,3 +1,9 @@
+# Cyphers first mission:
+sugabit. 
+think of it like "it becomes effects in the chain" rather than samplezs to manually edit every time , from "manual piano everytime" to nexus 2 🙂 
+
+
+
 <img width="318" height="68" alt="image" src="https://github.com/user-attachments/assets/a5dc570e-3d12-4b43-beb4-7f2c852b02ec" />
 
 
