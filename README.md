@@ -2,8 +2,7 @@
 
 ## Cyphers(for the ahn qiraj grab this!)
 
-<img width="904" height="535" alt="image" src="https://github.com/user-attachments/assets/b3381359-a2af-4f88-a46b-2445d2ed5ea3" />
-
+<img width="1475" height="1528" alt="image" src="https://github.com/user-attachments/assets/ba2b0851-869c-4507-a0bc-2ec323f99eb8" />
 
 <img width="1938" height="723" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
 
