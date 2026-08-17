@@ -1,5 +1,8 @@
-# Cyphers first boss of ahn qiraj solution
+# Cyphers(for the ahn qiraj grab this!)
 <img width="904" height="535" alt="image" src="https://github.com/user-attachments/assets/b3381359-a2af-4f88-a46b-2445d2ed5ea3" />
+
+
+<img width="1938" height="723" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
 
 
 <img width="318" height="68" alt="image" src="https://github.com/user-attachments/assets/a5dc570e-3d12-4b43-beb4-7f2c852b02ec" />
@@ -11,8 +14,6 @@
   <img width="247" alt="The artif'" src="https://github.com/user-attachments/assets/73697275-2259-4517-9b6f-67d31afc2692" />
 </div>
 
-
-<img width="1938" height="723" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
 
 
 
