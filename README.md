@@ -1,4 +1,5 @@
 <h1 align="center">The artif'</h1>
+we on a mission, so takes time to smith so that it isnt commit's every 3 hours.
 
 ## Cyphers(for the ahn qiraj grab this!)
 
