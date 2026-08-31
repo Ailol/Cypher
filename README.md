@@ -4,7 +4,7 @@
 <div align="center">
    
 
-  <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" /><sub>spell it in the brain!</sub>
+  <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" /> <br/> <sub>spell it in the brain!</sub>
 </div>
 
 
