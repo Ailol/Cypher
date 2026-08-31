@@ -7,9 +7,21 @@
   margin:1.2rem 0 .25rem;
 ">
 
-  <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
+  .Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!
 
 </h1>
+
+<p style="
+  text-align:center;
+  margin:0;
+  font-size:.9rem;
+  letter-spacing:.12em;
+  opacity:.55;
+">
+<img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
+
+</p>
+  
 <div align="center">
    
 <h2>checka'.qck' in a month <✦> </h2>
@@ -32,17 +44,7 @@
 
 
 
-<p style="
-  text-align:center;
-  margin:0;
-  font-size:.9rem;
-  letter-spacing:.12em;
-  opacity:.55;
-">
-<img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
 
-</p>
-  
 <br />
   <h1> s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human </h1>
 </div>
