@@ -1,7 +1,7 @@
 <div align="center">
    
 <h2>welcome, that was brill new raid.</h2>
-<h5>reverse your arrows sometimes! halts '><sub>#arrow </sub> <-worra!</h2> </h5>
+<h5>reverse your arrows sometimes! halts '><sub><-worra! </sub> </h2> </h5>
  <br /> 
    <sub>'ropsz the procsz in brain</sub>
 </div>
