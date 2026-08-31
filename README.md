@@ -66,7 +66,7 @@ s'bit(rest-api){
 
 
 <div align='center'>
-<h3>  <sub>< ti'lo ></sub> **arrow from  </h3> 
+<h3>   <sub><< ti</sub>'A'<sub>ilo</sub> >>
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
 </div>
 
