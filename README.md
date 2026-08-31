@@ -16,8 +16,14 @@
   letter-spacing:.12em;
   opacity:.55;
 ">
-  p'szazs ✦ <- rebiliration(qck.dance w/sz)
-  ZazØØÆZ ✧ <- micro-abiliration(almost 'like n-word worry tbh sometimes')
+```typescript
+export const Abiliration ex'{
+   
+       p'szazs   ✦ <- rebiliration (dance.qck);	   
+       ZzZazØØÆZ ✧ <- micro-abiliration(worry'ersz be aware!);
+
+} in-you(§'negates + thoughtsz of your lyf')
+```
 </p>
 
 ## Cypher <639> reports in!
