@@ -45,7 +45,7 @@ s'bit{
 }into(attention of knowledge suddenly feels awesome instead of a "spider'zs web")
 ```
 <div align='center'>
-<h3 <sub>**a</sub>rrow from </h3> ti'
+<h3 <sub>**a</sub>rrow from <h1><sub> <ti'lo></sub></h1> </h3> 
 ---
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
 </div>
