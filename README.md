@@ -1,11 +1,11 @@
 <h1 style="
   text-align:center;
   font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
-  font-weight:800;
+  font-weight: 1000;
   letter-spacing:.04em;
   margin:1.2rem 0 .25rem;
 ">
-  me and <tia.> (she working on ambit' tbh)
+  Me and <tia.> (she working on ambit' tbh)
 </h1>
 
 <p style="
