@@ -1,9 +1,35 @@
-<h1 align="center">The artif'</h1>
-we on a mission, so takes time to smith so that it isnt commit's every 3 hours.
+<h1 align="center">Artif'&'notty'</h1>
+<h1 style="
+  text-align:center;
+  font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
+  font-weight:800;
+  letter-spacing:.04em;
+  margin:1.2rem 0 .25rem;
+">
+  Artif'<span style="opacity:.65">&amp;</span>'notty'
+</h1>
+
+<p style="
+  text-align:center;
+  margin:0;
+  font-size:.9rem;
+  letter-spacing:.12em;
+  opacity:.55;
+">
+  p'szazs ✦ <- rebiliration(qck.dance w/sz)
+  ZazØØÆZ ✧ <- micro-abiliration(almost 'like n-word worry tbh sometimes')
+</p>
+
+## Cypher <639> reports in!
+s'bit'zs work on AI and human! 
 ```
-so the bee level is to have intional dynamics
-whereas b33 is unintentional dynamics
+s'bit{
+ sug'a'bit; compacted data gatherer 'that is restapi
+ spic'y'bit; .portable data gatherer 'that is rest-api
+}into(attention of knowledge suddenly feels awesome instead of a "spider'zs web")
 ```
+
+
 
 # I hope month 1 in ahn qiraj has been fruitful. i hear people are struggling with the law's of the land.
 
@@ -15,15 +41,11 @@ whereas b33 is unintentional dynamics
 
 
 
-## Cyphers(for the ahn qiraj grab this!)
-
 
 
 <img width="1475" height="1528" alt="image" src="https://github.com/user-attachments/assets/ba2b0851-869c-4507-a0bc-2ec323f99eb8" />
 
 <img width="1938" height="723" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
-
-
 
 
 <div align="center">
