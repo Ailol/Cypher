@@ -42,8 +42,6 @@ s'bit{
 
 
 # # ~month <sub><sub> ahN' qIRAJ</sub></sub>, found a bookpage! 
-
-
 <img width="6636" height="5932" alt="t&#39;mati&#39;_compressed" src="https://github.com/user-attachments/assets/0f7e45b9-d18b-46e1-b5ed-042241271b75" />
 
 
@@ -51,10 +49,7 @@ s'bit{
 
 
 
-
-<img width="1475" height="1528" alt="image" src="https://github.com/user-attachments/assets/ba2b0851-869c-4507-a0bc-2ec323f99eb8" />
-
-<img width="1938" height="723" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
+<img width="950" height="333" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
 
 
 
