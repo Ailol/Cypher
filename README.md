@@ -62,7 +62,7 @@ s'bit(rest-api){
 
 
 # <sub> ~aq' s'pic the month!</sub>
-## twin asked <empz> nicelie,can  bks[639] swing by. 
+## twin asked <empz> nicelie<hahahhahaha fucking wailing boys in there "dying with pride.",can  bks[639] swing by. 
 ### <sub><sub> ahN' </sub>qIRAJ</sub>! 
 <img width="6636" height="5932" alt="t&#39;mati&#39;_compressed" src="https://github.com/user-attachments/assets/0f7e45b9-d18b-46e1-b5ed-042241271b75" />
 
