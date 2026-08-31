@@ -22,24 +22,12 @@
 </p>
 
 <div class="szsz">
-  <div class="szsz-main">.Cypher[639] reports bounty!</div>
-
+  <div class="szsz-main">.Cypher[<sub><sub>639</sub></sub>] reports bounty!</div>
   <div class="szsz-mini">
-    <sub>mini</sub> s'bit'zs work on AI and human!
-  </div>
-
-  <div class="szsz-micro">
-    <sub>micro</sub> ✦ observer changed
+   s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human!
   </div>
 </div>
 
-<style>
-.szsz      { font-family: monospace; line-height: 1.15; }
-.szsz-main { font-size: 13px; font-weight: 700; }
-.szsz-mini { font-size: 9px;  opacity: .72; }
-.szsz-micro{ font-size: 6px;  opacity: .48; letter-spacing: .08em; }
-.szsz sub  { font-size: 5px; vertical-align: sub; opacity: .55; }
-</style>
 ```
 s'bit{
  sug'a'bit; compacted data gatherer 'that is restapi
