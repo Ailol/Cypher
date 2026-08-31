@@ -41,8 +41,7 @@ s'bit{
 
 
 
-# I hope month 1 in ahn qiraj has been fruitful. i hear people are struggling with the law's of the land.
-
+# # ~month <sub><sub> ahN' qIRAJ</sub></sub>, found a bookpage! 
 
 
 <img width="6636" height="5932" alt="t&#39;mati&#39;_compressed" src="https://github.com/user-attachments/assets/0f7e45b9-d18b-46e1-b5ed-042241271b75" />
