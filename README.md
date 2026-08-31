@@ -37,7 +37,7 @@
   letter-spacing:.12em;
   opacity:.55;
 ">
-<img width="773" height="117" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
+<img width="725" height="99" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
 
 </p>
 
