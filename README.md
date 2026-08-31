@@ -36,7 +36,7 @@
 ```
 s'bit(rest-api){
 
-spic'y'bit: .portable data gatherer  ("munin")
+   spic'y'bit: .portable data gatherer  ("munin")
    sug'a'bit : compacted data gatherer  ("hugin")
 
 } into(attention of knowledge suddenly feels awesome instead of a "spider'zs web")
