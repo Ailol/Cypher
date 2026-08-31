@@ -4,7 +4,20 @@ we on a mission, so takes time to smith so that it isnt commit's every 3 hours.
 so the bee level is to have intional dynamics
 whereas b33 is unintentional dynamics
 ```
+
+# I hope month 1 in ahn qiraj has been fruitful. i hear people are struggling with the law's of the land.
+
+
+
+<img width="6636" height="5932" alt="t&#39;mati&#39;_compressed" src="https://github.com/user-attachments/assets/0f7e45b9-d18b-46e1-b5ed-042241271b75" />
+
+
+
+
+
 ## Cyphers(for the ahn qiraj grab this!)
+
+
 
 <img width="1475" height="1528" alt="image" src="https://github.com/user-attachments/assets/ba2b0851-869c-4507-a0bc-2ec323f99eb8" />
 
