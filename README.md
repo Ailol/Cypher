@@ -18,7 +18,7 @@
 ">
 
 
- ```
+ ```js
 export const Abiliration ex'{
        p'szazs   ✦ <- rebiliration (dance.qck);	   
        ZzZazØØÆZ ✧ <- micro-abiliration(worry'ersz be aware!);
