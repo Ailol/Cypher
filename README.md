@@ -1,7 +1,7 @@
 <div align="center">
    
 <h2>Attent'</h2>
-<h5>reverse your arrows sometimes! halts '>
+<h5>reverse your arrows sometimes! halts [ ⟳ ]
    <br /> 
    <br /> 
    <sub> << worra >> </sub> </h2> </h5>
