@@ -16,11 +16,6 @@
   <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
 
 </h1>
-<h3>
-  Me and <tia.> (she working on ambit' tbh)
-    <br />
-  arrow.qck for writing and calling 'em out.
-</h3>
 <p style="
   text-align:center;
   margin:0;
@@ -45,7 +40,7 @@ s'bit{
 }into(attention of knowledge suddenly feels awesome instead of a "spider'zs web")
 ```
 <div align='center'>
-<h3 <sub>**a</sub>rrow from <h1><sub> <ti'lo></sub></h1> </h3> 
+<h3 <sub> <ti'lo></sub> <sub>**a</sub>rrow from <h1></h1> </h3> 
 ---
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
 </div>
