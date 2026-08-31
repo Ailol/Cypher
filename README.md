@@ -5,9 +5,14 @@
   letter-spacing:.04em;
   margin:1.2rem 0 .25rem;
 ">
-  Me and <tia.> (she working on ambit' tbh)
+
+  <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
+
+  
 </h1>
 <h3>
+  Me and <tia.> (she working on ambit' tbh)
+    <br />
   arrow.qck for writing and calling 'em out.
 </h3>
 <p style="
@@ -22,8 +27,7 @@
 </p>
 
 <div class="szsz">
-  <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
-
+  
 <br />
   <h1> s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human </h1>
 </div>
