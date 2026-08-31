@@ -44,8 +44,9 @@ s'bit{
  spic'y'bit; .portable data gatherer 'that is rest-api
 }into(attention of knowledge suddenly feels awesome instead of a "spider'zs web")
 ```
-# **arrow from ti'
 <div align='center'>
+# <sub>**a</sub>rrow from ti'
+
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
 </div>
 
