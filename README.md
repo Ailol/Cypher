@@ -49,7 +49,7 @@ s'bit{
 
 
 
-<img width="950" height="333" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
+<img width="150" height="25" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" />
 
 
 
