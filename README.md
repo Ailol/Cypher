@@ -21,7 +21,7 @@
  ```js
 export const Abiliration ex'{
        p'szazs   ✦ <- rebiliration (dance.qck);	   
-       ZzZazØØÆZ ✧ <- micro-abiliration(worry'ersz be aware!);
+       ZzZazØØÆZ ✧ <- micro-abiliration with colorization tactics(worry'ersz be aware!);
 } in-you(§'negates + thoughtsz of your lyf')
 ```
 </p>
