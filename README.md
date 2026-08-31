@@ -10,7 +10,7 @@
   .Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!
 
 </h1>
-</div>
+
 
 <p style="
   text-align:center;
@@ -22,7 +22,7 @@
 <img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
 
 </p>
-  
+  </div>
 <div align="center">
    
 
