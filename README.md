@@ -1,4 +1,3 @@
-<h1 align="center">Artif'&'notty'</h1>
 <h1 style="
   text-align:center;
   font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
@@ -16,14 +15,8 @@
   letter-spacing:.12em;
   opacity:.55;
 ">
+<img width="773" height="117" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
 
-
- ```js
-export const Abiliration ex'{
-       p'szazs   ✦ <- rebiliration (dance.qck);	   
-       ZzZazØØÆZ ✧ <- micro-abiliration with colorization tactics(worry'ersz be aware!);
-} in-you(§'negates + thoughtsz of your lyf')
-```
 </p>
 
 ## Cypher <639> reports in!
