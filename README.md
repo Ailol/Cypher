@@ -25,7 +25,7 @@
   <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
 
 <br />
-   s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human
+  <h1> s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human </h1>
 </div>
 
 ```
