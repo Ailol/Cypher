@@ -3,11 +3,13 @@
 <h2>welcome, that was brill new raid.</h2>
 <h5>reverse your arrows sometimes! halts '><sub> (( << worra>-- </sub> </h2> </h5>
  <br /> 
-   <sub>'ropsz the procsz in brain</sub>
+
 </div>
+
+      
 <div align="center">
    
-
+   <sub> t</sub> <bold> 'ropsz the procsz in brain</bold>
   <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" /> <br/> <sub>spell it in the brain!</sub>
 </div>
 
