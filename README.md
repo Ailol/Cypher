@@ -22,10 +22,10 @@
 </p>
 
 <div class="szsz">
-  <div class="szsz-main">.Cypher[<sub><sub>639</sub></sub>] reports bounty!</div>
-  <div class="szsz-mini">
-   s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human!
-  </div>
+  <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
+
+<br />
+   s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human
 </div>
 
 ```
