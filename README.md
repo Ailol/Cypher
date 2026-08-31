@@ -16,12 +16,12 @@
   letter-spacing:.12em;
   opacity:.55;
 ">
-```typescript
+
+
+ ```
 export const Abiliration ex'{
-   
        p'szazs   ✦ <- rebiliration (dance.qck);	   
        ZzZazØØÆZ ✧ <- micro-abiliration(worry'ersz be aware!);
-
 } in-you(§'negates + thoughtsz of your lyf')
 ```
 </p>
