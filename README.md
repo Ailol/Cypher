@@ -7,7 +7,7 @@
   margin:1.2rem 0 .25rem;
 ">
 
-  .Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!
+  .Cypher[<sub><sub><sub>639</sub></sub></sub>] reports boun'ty!
 
 </h1>
 
