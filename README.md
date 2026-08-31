@@ -24,13 +24,13 @@
   
 <div align="center">
    
-<h2>checka'.qck' in a month <✦> </h2>
+
 <h5>reverse your arrows sometimes! halts [ ⟳ ]
    <br /> 
    <br /> 
-   <sub> << worra >> </sub> </h2> </h5>
+   <sub> << worra >> </sub>  </h5>
  <br /> 
-
+<sub>spell it in the brain!</sub>
 </div>
 
       
@@ -39,7 +39,7 @@
  <sub> t 'rop</sub>sz *-. <sub> proc-</sub>sz in brain</bold>
    <br />
       <br />
-  <img width="200" height="75" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" /> <br/> <sub>spell it in the brain!</sub>
+  <img width="200" height="75" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" /> <br/> <h2>checka'.qck' in a month <✦> </h2>
 </div>
 
 
