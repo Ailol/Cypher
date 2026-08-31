@@ -30,16 +30,6 @@
   <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
 
 </h1>
-<p style="
-  text-align:center;
-  margin:0;
-  font-size:.9rem;
-  letter-spacing:.12em;
-  opacity:.55;
-">
-<img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
-
-</p>
 
 <div class="szsz">
   
@@ -68,6 +58,16 @@ s'bit(rest-api){
 
 
 
+<p style="
+  text-align:center;
+  margin:0;
+  font-size:.9rem;
+  letter-spacing:.12em;
+  opacity:.55;
+">
+<img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
+
+</p>
 
 
 
