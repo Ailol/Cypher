@@ -1,3 +1,15 @@
+
+<h1 style="
+  text-align:center;
+  font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
+  font-weight: 1000;
+  letter-spacing:.04em;
+  margin:1.2rem 0 .25rem;
+">
+
+  <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
+
+</h1>
 <div align="center">
    
 <h2>checka'.qck' in a month <✦> </h2>
@@ -19,17 +31,7 @@
 </div>
 
 
-<h1 style="
-  text-align:center;
-  font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
-  font-weight: 1000;
-  letter-spacing:.04em;
-  margin:1.2rem 0 .25rem;
-">
 
-  <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
-
-</h1>
 <p style="
   text-align:center;
   margin:0;
