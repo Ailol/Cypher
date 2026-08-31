@@ -1,3 +1,8 @@
+# **arrow from ti'
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
+
+
 <h1 style="
   text-align:center;
   font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
@@ -8,7 +13,6 @@
 
   <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
 
-  
 </h1>
 <h3>
   Me and <tia.> (she working on ambit' tbh)
