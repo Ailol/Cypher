@@ -30,8 +30,16 @@
   <div class="szsz-main">.Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!</div>
 
 </h1>
+<p style="
+  text-align:center;
+  margin:0;
+  font-size:.9rem;
+  letter-spacing:.12em;
+  opacity:.55;
+">
+<img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
 
-<div class="szsz">
+</p>
   
 <br />
   <h1> s'bit'zs   <sub>work on </sub>AI <sub>and</sub> human </h1>
@@ -45,10 +53,6 @@ s'bit(rest-api){
 
 } into(attention of knowledge suddenly feels awesome instead of a "spider'zs web")
 ```
-<div align='center'>
-<h3>  <sub>< ti'lo ></sub> **arrow from  </h3> 
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
-</div>
 
 
 
@@ -56,18 +60,13 @@ s'bit(rest-api){
 <img width="6636" height="5932" alt="t&#39;mati&#39;_compressed" src="https://github.com/user-attachments/assets/0f7e45b9-d18b-46e1-b5ed-042241271b75" />
 
 
+<div align='center'>
+<h3>  <sub>< ti'lo ></sub> **arrow from  </h3> 
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/502d9d79-dab1-42d1-abba-b2a87b91f35f" />
+</div>
 
 
-<p style="
-  text-align:center;
-  margin:0;
-  font-size:.9rem;
-  letter-spacing:.12em;
-  opacity:.55;
-">
-<img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/a2a4109d-ca3b-4dfd-a166-bdf1694b47bc" />
 
-</p>
 
 
 
