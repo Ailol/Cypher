@@ -9,7 +9,7 @@
       
 <div align="center">
    
-   <sub> t</sub> <bold> 'ropsz the procsz in brain</bold>
+   <sub> t 'rop</sub>sz the <sub> proc-</sub>sz in brain</bold>
   <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/4068ada8-d1ce-47d8-8568-a5781c851f30" /> <br/> <sub>spell it in the brain!</sub>
 </div>
 
