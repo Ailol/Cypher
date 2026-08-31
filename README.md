@@ -61,7 +61,9 @@ s'bit(rest-api){
 
 
 
-# # ~month <sub><sub> ahN' qIRAJ</sub></sub>, found a bookpage! 
+# # ~month no phun, i call the family, twimpsz, to watch.
+## i took notes. here rose!
+### <sub><sub> ahN' </sub>qIRAJ</sub>! 
 <img width="6636" height="5932" alt="t&#39;mati&#39;_compressed" src="https://github.com/user-attachments/assets/0f7e45b9-d18b-46e1-b5ed-042241271b75" />
 
 
