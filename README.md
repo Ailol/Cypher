@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1 style="
   text-align:center;
   font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
@@ -10,6 +10,7 @@
   .Cypher[<sub><sub><sub>639</sub></sub></sub>] reports bounty!
 
 </h1>
+</div>
 
 <p style="
   text-align:center;
