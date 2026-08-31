@@ -4,7 +4,7 @@
 <h5>reverse your arrows sometimes! halts '>
    <br /> 
    <br /> 
-   <sub> (( << worra>-- </sub> </h2> </h5>
+   <sub> << worra >> </sub> </h2> </h5>
  <br /> 
 
 </div>
