@@ -1,6 +1,9 @@
 <h1 align="center">The artif'</h1>
 we on a mission, so takes time to smith so that it isnt commit's every 3 hours.
-
+```
+so the bee level is to have intional dynamics
+whereas b33 is unintentional dynamics
+```
 ## Cyphers(for the ahn qiraj grab this!)
 
 <img width="1475" height="1528" alt="image" src="https://github.com/user-attachments/assets/ba2b0851-869c-4507-a0bc-2ec323f99eb8" />
