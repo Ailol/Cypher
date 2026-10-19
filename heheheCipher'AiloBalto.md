@@ -1,3 +1,7 @@
+# Producing language is the most complex thing you do, its the only way you know you can trust your words in dire moments :) 
+
+#### Body language, tonal language, words, sentence buildups, stories, sit and talk in the room alone, it works like a charm to c'parr to what you want out of life :) 
+
 btw, hearing is unique, without it cypher and cipher, int isnt even possible like CiA :) however, it can become a closed loop or even that you categorize it wrongly. here:
 
 0. TALK LOUD. ITS THE ONLY WAY TO FIX c'PARR level, there is no way for the body to know if its you or a sensation. and sensation can be summed around you :)
