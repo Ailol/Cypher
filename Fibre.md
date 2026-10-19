@@ -1,3 +1,7 @@
+<img width="1065" height="1205" alt="sticker_1792415480932" src="https://github.com/user-attachments/assets/b4ce10a9-091d-4656-9426-e79de67c4afd" />
+
+
+
 finally a good definition for fibre!!
 
 a=micro chain presentented or acted into time and bio etc
@@ -46,3 +50,5 @@ the other ; the below one almost sucks out the belief and hope of peak chance in
 # and here is without the google overlay 
 
 <img width="1080" height="2340" alt="Screenshot_20261019_145937_Instagram" src="https://github.com/user-attachments/assets/4ab91fb4-24a4-4a63-8031-7f75d837a0d2" />
+
+
