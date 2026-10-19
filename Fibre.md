@@ -22,6 +22,14 @@ gathers so the pheno(the experession set) has build cool behaviors.
 
 then phibre translates it into brain and matriks 😊
 # 2 cents; the first is non sexual pheno invoke; the other one is feno(wirhout the overlay 😊)
+the extreme attenr' levdl on feno is actuslly thst the overlsy makes yoj improve your
+understand lf your own pheno look; yet makes you want to just givd it a try 🙃
+
+the other ; the below one almost sucks out the belief and hope of peak chance interactions
+
+💟image 💛 overlay adds this perfectly to the image 🙃
+
+
 
 
 # here is a cool feno(gstherinf image) + how the fuck is her phibre and pheno se
