@@ -28,3 +28,6 @@ then phibre translates it into brain and matriks 😊
 
 
 
+# and here is without the google overlay 
+
+<img width="1080" height="2340" alt="Screenshot_20261019_145937_Instagram" src="https://github.com/user-attachments/assets/4ab91fb4-24a4-4a63-8031-7f75d837a0d2" />
