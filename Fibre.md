@@ -1,3 +1,6 @@
+# countouring ' psych and phibre 101
+
+
 <img width="1065" height="1205" alt="sticker_1792415480932" src="https://github.com/user-attachments/assets/b4ce10a9-091d-4656-9426-e79de67c4afd" />
 
 
@@ -52,3 +55,14 @@ the other ; the below one almost sucks out the belief and hope of peak chance in
 <img width="1080" height="2340" alt="Screenshot_20261019_145937_Instagram" src="https://github.com/user-attachments/assets/4ab91fb4-24a4-4a63-8031-7f75d837a0d2" />
 
 
+# here comed a wierd male trait in(pheno'traits)
+
+<img width="1080" height="2340" alt="Screenshot_20261019_151412_Photos" src="https://github.com/user-attachments/assets/87ce2d3c-5a35-443d-bf17-08b9f194aef8" />
+
+# yet not the fov or depth alone
+<img width="1080" height="2340" alt="Screenshot_20261019_151357_Photos" src="https://github.com/user-attachments/assets/4074bbed-befe-4248-bf5c-c3d1502a7683" />
+
+
+# then a pheno edit 
+
+<img width="1080" height="2340" alt="Screenshot_20261019_151826_Photos" src="https://github.com/user-attachments/assets/17e55ddd-426f-4b3a-9888-bc5ece35feff" />
