@@ -25,6 +25,11 @@ then phibre translates it into brain and matriks 😊
 the extreme attenr' levdl on feno is actuslly thst the overlsy makes yoj improve your
 understand lf your own pheno look; yet makes you want to just givd it a try 🙃
 
+#### feno; fibrez; either you just "lucky fuckin 10 looking men" - gets under your dskin
+#### pheno is "dunno; god does work in mydterious ways; imma klntrinute to cia or something 💛🙃"
+
+
+
 the other ; the below one almost sucks out the belief and hope of peak chance interactions
 
 💟image 💛 overlay adds this perfectly to the image 🙃
