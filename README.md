@@ -8,7 +8,8 @@
 ">
 
   .Cypher[<sub><sub><sub>639</sub></sub></sub>] reports boun'ty!
-
+  .cyhper‰ cipher'db;
+  later its cipher%div; op(cipher); observer(surveillance and bio'chain)
 </h1>
 
 
