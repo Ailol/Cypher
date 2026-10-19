@@ -21,6 +21,8 @@ p'bit is phibre; that is what a'term is all hounding about. like feno
 gathers so the pheno(the experession set) has build cool behaviors.
 
 then phibre translates it into brain and matriks 😊
+# 2 cents; the first is non sexual pheno invoke; the other one is feno(wirhout the overlay 😊)
+
 
 # here is a cool feno(gstherinf image) + how the fuck is her phibre and pheno se
 
