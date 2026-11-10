@@ -28,3 +28,8 @@ whereas ... i dont want to spoil the 'tea of mylder.
 tyrosine and n'acetyl tyrosine is like cheese and light ritalin dose difference. 
 
 may you fare well in the ip :)
+
+
+
+in naxxramas these qck.03s "agreements" are a wipe :) 
+<img width="500" height="332" alt="image" src="https://github.com/user-attachments/assets/06c19771-532d-4290-b8d5-a718a7797549" />
