@@ -15,3 +15,16 @@ to avoid sensik sensik sensik.
 Jarney' The beekeper has set up a poster announcing that nak'ramas needs 1 true supplement
 
 NAC - sets a thingamajigg in motion,  is key for survival <3 .
+
+
+here is pharma ' sets the pace
+medicine kures the chaze
+
+turbulence is learning, to settle, produkts need to stand. engineers have a markedly qck way with 639. :) remember to ai compile something, like "sys-prompt + generate a compiler based on sys prompt"
+
+neuroreadct is a great one to understand that settings always set.
+whereas ... i dont want to spoil the 'tea of mylder. 
+
+tyrosine and n'acetyl tyrosine is like cheese and light ritalin dose difference. 
+
+may you fare well in the ip :)
