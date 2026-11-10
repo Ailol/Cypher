@@ -1,4 +1,5 @@
 # One true d'term partikle, t'articzs.
+### interaction is life ' my aetish after raid <3 :)
 #### tea' & < bio-chain >
 
  For `tea'` in me i seek in biochain a t'tynamikz[fire is 1] :) as it lights the mind at night to,
